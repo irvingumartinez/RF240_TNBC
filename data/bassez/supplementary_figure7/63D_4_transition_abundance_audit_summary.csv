@@ -1,0 +1,3 @@
+response_group,n_possible_routes,n_observed_routes,n_routes_ge2_patients,n_routes_ge5_patients,n_broad_support_routes,n_single_patient_routes,median_max_patient_share_observed,median_effective_n_patients_observed
+NE,36,31,26,10,10,5,0.5,2.380952380952381
+E,36,33,33,27,26,0,0.3333333333333333,4.5

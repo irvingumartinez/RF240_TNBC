@@ -1,0 +1,2 @@
+qc_label,group_1,group_2,n_group_1,n_group_2,median_group_1,median_group_2,delta_median,p_value,analysis_role,interpretation
+100 cells / 10 persistent,NE,E,10,11,0.01778002699055331,0.0942570922331042,0.07647706524255089,0.3417864618150273,PRIMARY QC,ns

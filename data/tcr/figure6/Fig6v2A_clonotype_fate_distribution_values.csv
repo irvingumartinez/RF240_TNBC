@@ -1,0 +1,21 @@
+response_pcr,comparison,fate_type,n_clonotypes,total_cells_across_time,total_clonotypes,prop_clonotypes,comparison_label,fate_label
+NR,Base_to_PD1,lost_after_base,2197,2625,6406,0.342959725257571,Base → PD1,Lost after base
+R,Base_to_PD1,lost_after_base,11661,14227,39011,0.29891569044628435,Base → PD1,Lost after base
+NR,Base_to_PD1,new_at_PD1,2107,2473,6406,0.3289103965032782,Base → PD1,New at PD1
+R,Base_to_PD1,new_at_PD1,11500,16832,39011,0.29478864935531,Base → PD1,New at PD1
+NR,Base_to_PD1,not_observed,1921,2081,6406,0.2998751170777396,Base → PD1,Not observed
+R,Base_to_PD1,not_observed,14630,18106,39011,0.3750224295711466,Base → PD1,Not observed
+NR,Base_to_PD1,same_cluster,88,907,6406,0.01373712144864189,Base → PD1,Same state
+R,Base_to_PD1,same_cluster,737,8687,39011,0.01889210735433595,Base → PD1,Same state
+NR,Base_to_PD1,cluster_switch,93,574,6406,0.01451763971276927,Base → PD1,State switch
+R,Base_to_PD1,cluster_switch,563,4383,39011,0.01443182692061213,Base → PD1,State switch
+NR,Base_to_RTPD1,lost_after_base,2270,3088,6406,0.3543552919138308,Base → RTPD1,Lost after base
+R,Base_to_RTPD1,lost_after_base,11903,16493,39011,0.305119068980544,Base → RTPD1,Lost after base
+NR,Base_to_RTPD1,new_at_RTPD1,1974,2260,6406,0.30814861067748983,Base → RTPD1,New at RTPD1
+R,Base_to_RTPD1,new_at_RTPD1,15633,23055,39011,0.40073312655404886,Base → RTPD1,New at RTPD1
+NR,Base_to_RTPD1,not_observed,2054,2294,6406,0.3206369029035279,Base → RTPD1,Not observed
+R,Base_to_RTPD1,not_observed,10499,11883,39011,0.2691292199636,Base → RTPD1,Not observed
+NR,Base_to_RTPD1,same_cluster,50,547,6406,0.0078051826412738,Base → RTPD1,Same state
+R,Base_to_RTPD1,same_cluster,504,6553,39011,0.01291943298044141,Base → RTPD1,Same state
+NR,Base_to_RTPD1,cluster_switch,58,471,6406,0.00905401186387761,Base → RTPD1,State switch
+R,Base_to_RTPD1,cluster_switch,540,4251,39011,0.01384224962190151,Base → RTPD1,State switch

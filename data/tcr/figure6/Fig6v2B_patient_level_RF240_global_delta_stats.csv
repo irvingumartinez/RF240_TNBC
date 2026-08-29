@@ -1,0 +1,5 @@
+n_groups,group_1,group_2,n_group_1,n_group_2,median_group_1,median_group_2,delta_group_2_minus_group_1,p_value,comparison,q_value,stat_label,comparison_label,plot_label,q_class
+2,NR,R,3,14,-0.06305553833333333,0.08426165160714288,0.1473171899404762,0.14737561862304674,PD1_minus_Base,0.14737561862304674,NA,PD1 − Base,"trend
+q=0.147",trend_q_lt_0.15
+2,NR,R,3,14,-0.08151041999999997,0.03595486633333332,0.1174652863333333,0.11529061707139364,RTPD1_minus_Base,0.14737561862304674,NA,RTPD1 − Base,"trend
+q=0.147",trend_q_lt_0.15

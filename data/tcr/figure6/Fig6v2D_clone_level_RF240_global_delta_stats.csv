@@ -1,0 +1,2 @@
+n_groups,group_1,group_2,n_group_1,n_group_2,median_group_1,median_group_2,delta_group_2_minus_group_1,p_value,q_value,stat_label,plot_label,q_class
+2,NR,R,39,579,-0.07239586000000003,0.06666666000000002,0.13906252000000005,6.903804995609482e-5,6.903804995609482e-5,***,***,q_lt_0.05

@@ -1,0 +1,9 @@
+use,statement
+TRUE,RF240 remodeling is modestly associated with the magnitude of phenotype-state remodeling in persistent Bassez clonotypes.
+TRUE,The clone-level association is robust across QC thresholds.
+TRUE,"At patient level, the association is directionally positive among E-classified patients."
+TRUE,Patient-level effect magnitude is stable across nested QC choices.
+FALSE,Bassez independently validates RF240.
+FALSE,The association is significantly stronger in E than NE.
+FALSE,State-changing clonotypes have significantly greater RF240 remodeling than state-stable clonotypes.
+FALSE,Both Bassez cohorts independently replicate the effect.

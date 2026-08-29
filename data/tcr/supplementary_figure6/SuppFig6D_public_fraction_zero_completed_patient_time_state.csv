@@ -1,0 +1,448 @@
+patient_id,timepoint,response_pcr,cluster_identity_full,prop_clonotypes_cluster,prop_cells_cluster,total_clonotypes_cluster,total_clone_cells_cluster
+Patient01,Base,R,P2 | Activated CD4/Treg-like,0.00374531835205992,0.00223713646532438,267,3129
+Patient01,Base,R,P5 | Cytotoxic CD8 effector-like,0.00224215246636771,0.00158227848101265,446,4424
+Patient01,Base,R,P8 | Helper/memory basal-like,0.00121951219512195,0.00115874855156431,820,6041
+Patient02,RTPD1,R,P5 | Cytotoxic CD8 effector-like,0.00240963855421686,0.00384615384615384,415,3640
+Patient03T1,Base,R,P1 | IFN-high cytotoxic,0.48148148148148145,0.6666666666666666,27,357
+Patient03T1,Base,R,P2 | Activated CD4/Treg-like,0.27941176470588236,0.31645569620253167,68,553
+Patient03T1,Base,R,P3 | APC-like residual,1,1,1,7
+Patient03T1,Base,R,P4 | Ambiguous residual,0.42857142857142855,0.4666666666666667,14,105
+Patient03T1,Base,R,P5 | Cytotoxic CD8 effector-like,0.2866666666666667,0.45051194539249145,150,2051
+Patient03T1,Base,R,P6 | Activated helper/memory IEG-like,0.25,0.25,4,28
+Patient03T1,Base,R,P7 | gdT/NK-like terminal cytotoxic,0.8181818181818182,0.9,11,210
+Patient03T1,Base,R,P8 | Helper/memory basal-like,0.06666666666666667,0.06521739130434782,90,644
+Patient03T1,PD1,R,P1 | IFN-high cytotoxic,0.6,0.6363636363636364,10,77
+Patient03T1,PD1,R,P2 | Activated CD4/Treg-like,0.19298245614035087,0.1904761904761905,57,441
+Patient03T1,PD1,R,P3 | APC-like residual,1,1,1,7
+Patient03T1,PD1,R,P4 | Ambiguous residual,0.2631578947368421,0.2631578947368421,19,133
+Patient03T1,PD1,R,P5 | Cytotoxic CD8 effector-like,0.27058823529411763,0.468,170,1750
+Patient03T1,PD1,R,P6 | Activated helper/memory IEG-like,0.24,0.2692307692307692,25,182
+Patient03T1,PD1,R,P7 | gdT/NK-like terminal cytotoxic,0.5833333333333334,0.7297297297297297,24,259
+Patient03T1,PD1,R,P8 | Helper/memory basal-like,0.05042016806722689,0.06504065040650407,119,861
+Patient03T2,Base,R,P1 | IFN-high cytotoxic,0.30578512396694213,0.5665236051502146,121,1631
+Patient03T2,Base,R,P2 | Activated CD4/Treg-like,0.18803418803418803,0.2063492063492063,117,882
+Patient03T2,Base,R,P3 | APC-like residual,1,1,1,7
+Patient03T2,Base,R,P4 | Ambiguous residual,0.2352941176470588,0.2777777777777778,17,126
+Patient03T2,Base,R,P5 | Cytotoxic CD8 effector-like,0.20388349514563103,0.3117408906882591,206,1729
+Patient03T2,Base,R,P7 | gdT/NK-like terminal cytotoxic,0.6153846153846154,0.75,13,140
+Patient03T2,Base,R,P8 | Helper/memory basal-like,0.05,0.06557377049180328,60,427
+Patient03T2,PD1,R,P1 | IFN-high cytotoxic,0.4782608695652174,0.6486486486486487,23,259
+Patient03T2,PD1,R,P2 | Activated CD4/Treg-like,0.09433962264150944,0.1206896551724138,53,406
+Patient03T2,PD1,R,P3 | APC-like residual,0.625,0.6666666666666666,8,63
+Patient03T2,PD1,R,P4 | Ambiguous residual,0.18181818181818185,0.21739130434782608,22,161
+Patient03T2,PD1,R,P5 | Cytotoxic CD8 effector-like,0.13602941176470587,0.28939828080229224,272,2443
+Patient03T2,PD1,R,P6 | Activated helper/memory IEG-like,0.11904761904761904,0.13636363636363635,42,308
+Patient03T2,PD1,R,P7 | gdT/NK-like terminal cytotoxic,0.2926829268292683,0.3877551020408163,41,343
+Patient03T2,PD1,R,P8 | Helper/memory basal-like,0.04724409448818897,0.04724409448818897,127,889
+Patient03T2,RTPD1,R,P1 | IFN-high cytotoxic,0.2,0.2857142857142857,5,49
+Patient03T2,RTPD1,R,P2 | Activated CD4/Treg-like,0.04347826086956521,0.04347826086956521,23,161
+Patient03T2,RTPD1,R,P5 | Cytotoxic CD8 effector-like,0.14634146341463414,0.2926829268292683,205,2583
+Patient03T2,RTPD1,R,P6 | Activated helper/memory IEG-like,0.3333333333333333,0.3333333333333333,3,21
+Patient03T2,RTPD1,R,P7 | gdT/NK-like terminal cytotoxic,0.3076923076923077,0.5714285714285714,13,147
+Patient03T2,RTPD1,R,P8 | Helper/memory basal-like,0.05952380952380952,0.05952380952380952,168,1176
+Patient05,Base,R,P5 | Cytotoxic CD8 effector-like,0.00211640211640211,0.00165152766308835,945,8477
+Patient07,Base,R,P5 | Cytotoxic CD8 effector-like,0.00256410256410256,0.00227272727272727,390,3080
+Patient11,PD1,R,P8 | Helper/memory basal-like,0.0028169014084507,0.00279329608938547,355,2506
+Patient12,RTPD1,R,P5 | Cytotoxic CD8 effector-like,0.00284090909090909,0.00263157894736842,352,2660
+Patient16,RTPD1,R,P5 | Cytotoxic CD8 effector-like,0.00210970464135021,0.00177935943060498,474,3934
+Patient17,Base,NR,P6 | Activated helper/memory IEG-like,0.00546448087431694,0.0045662100456621,183,1533
+Patient18,Base,R,P4 | Ambiguous residual,0.00196850393700787,0.01700680272108843,508,6174
+Patient18,Base,R,P5 | Cytotoxic CD8 effector-like,0.00240963855421686,0.00198807157057654,415,3521
+Patient18,Base,R,P7 | gdT/NK-like terminal cytotoxic,0.01818181818181818,0.0396039603960396,55,707
+Patient18,PD1,R,P7 | gdT/NK-like terminal cytotoxic,0.04166666666666666,0.02941176470588235,24,238
+Patient18,RTPD1,R,P5 | Cytotoxic CD8 effector-like,0.00163666121112929,0.00205549845837615,611,6811
+Patient18,RTPD1,R,P6 | Activated helper/memory IEG-like,0.015625,0.01428571428571428,64,490
+Patient18,RTPD1,R,P7 | gdT/NK-like terminal cytotoxic,0.03571428571428571,0.2115384615384615,28,364
+Patient19,PD1,R,P5 | Cytotoxic CD8 effector-like,0.00413223140495867,0.02661596958174904,242,1841
+Patient19,PD1,R,P7 | gdT/NK-like terminal cytotoxic,0.09090909090909093,0.16666666666666666,11,84
+Patient19,RTPD1,R,P1 | IFN-high cytotoxic,0.00884955752212389,0.00336700336700336,113,2079
+Patient19,RTPD1,R,P4 | Ambiguous residual,0.00227272727272727,0.00845665961945031,440,3311
+Patient19,RTPD1,R,P5 | Cytotoxic CD8 effector-like,0.00315457413249211,0.03055555555555555,317,2520
+Patient19,RTPD1,R,P7 | gdT/NK-like terminal cytotoxic,0.0588235294117647,0.0588235294117647,17,119
+Patient20,RTPD1,R,P2 | Activated CD4/Treg-like,0.00526315789473684,0.0042016806722689,190,1666
+Patient20,RTPD1,R,P8 | Helper/memory basal-like,0.01666666666666666,0.01639344262295082,60,427
+Patient23,Base,R,P4 | Ambiguous residual,0.00384615384615384,0.00348432055749128,260,2009
+Patient23,Base,R,P8 | Helper/memory basal-like,0.00515463917525773,0.0050251256281407,194,1393
+Patient01,Base,R,P1 | IFN-high cytotoxic,0,0,7,70
+Patient01,Base,R,P3 | APC-like residual,0,0,11,77
+Patient01,Base,R,P4 | Ambiguous residual,0,0,53,420
+Patient01,Base,R,P6 | Activated helper/memory IEG-like,0,0,16,112
+Patient01,Base,R,P7 | gdT/NK-like terminal cytotoxic,0,0,26,252
+Patient02,Base,R,P1 | IFN-high cytotoxic,0,0,269,2905
+Patient02,Base,R,P2 | Activated CD4/Treg-like,0,0,245,1799
+Patient02,Base,R,P3 | APC-like residual,0,0,13,98
+Patient02,Base,R,P4 | Ambiguous residual,0,0,55,399
+Patient02,Base,R,P5 | Cytotoxic CD8 effector-like,0,0,334,2562
+Patient02,Base,R,P6 | Activated helper/memory IEG-like,0,0,26,182
+Patient02,Base,R,P7 | gdT/NK-like terminal cytotoxic,0,0,8,56
+Patient02,Base,R,P8 | Helper/memory basal-like,0,0,232,1638
+Patient02,PD1,R,P1 | IFN-high cytotoxic,0,0,98,917
+Patient02,PD1,R,P2 | Activated CD4/Treg-like,0,0,148,1092
+Patient02,PD1,R,P3 | APC-like residual,0,0,11,98
+Patient02,PD1,R,P4 | Ambiguous residual,0,0,68,525
+Patient02,PD1,R,P5 | Cytotoxic CD8 effector-like,0,0,399,3836
+Patient02,PD1,R,P6 | Activated helper/memory IEG-like,0,0,74,525
+Patient02,PD1,R,P7 | gdT/NK-like terminal cytotoxic,0,0,12,84
+Patient02,PD1,R,P8 | Helper/memory basal-like,0,0,157,1127
+Patient02,RTPD1,R,P1 | IFN-high cytotoxic,0,0,19,154
+Patient02,RTPD1,R,P2 | Activated CD4/Treg-like,0,0,51,385
+Patient02,RTPD1,R,P3 | APC-like residual,0,0,5,35
+Patient02,RTPD1,R,P4 | Ambiguous residual,0,0,63,455
+Patient02,RTPD1,R,P6 | Activated helper/memory IEG-like,0,0,49,350
+Patient02,RTPD1,R,P7 | gdT/NK-like terminal cytotoxic,0,0,14,98
+Patient02,RTPD1,R,P8 | Helper/memory basal-like,0,0,304,2156
+Patient03T2,Base,R,P6 | Activated helper/memory IEG-like,0,0,6,42
+Patient03T2,RTPD1,R,P4 | Ambiguous residual,0,0,3,21
+Patient04,Base,R,P1 | IFN-high cytotoxic,0,0,1,7
+Patient04,Base,R,P2 | Activated CD4/Treg-like,0,0,22,154
+Patient04,Base,R,P3 | APC-like residual,0,0,2,14
+Patient04,Base,R,P4 | Ambiguous residual,0,0,35,252
+Patient04,Base,R,P5 | Cytotoxic CD8 effector-like,0,0,77,560
+Patient04,Base,R,P6 | Activated helper/memory IEG-like,0,0,182,1330
+Patient04,Base,R,P7 | gdT/NK-like terminal cytotoxic,0,0,9,63
+Patient04,Base,R,P8 | Helper/memory basal-like,0,0,401,2849
+Patient04,PD1,R,P2 | Activated CD4/Treg-like,0,0,19,133
+Patient04,PD1,R,P4 | Ambiguous residual,0,0,9,63
+Patient04,PD1,R,P5 | Cytotoxic CD8 effector-like,0,0,53,413
+Patient04,PD1,R,P6 | Activated helper/memory IEG-like,0,0,25,175
+Patient04,PD1,R,P7 | gdT/NK-like terminal cytotoxic,0,0,3,21
+Patient04,PD1,R,P8 | Helper/memory basal-like,0,0,258,1841
+Patient04,RTPD1,R,P1 | IFN-high cytotoxic,0,0,7,84
+Patient04,RTPD1,R,P2 | Activated CD4/Treg-like,0,0,91,714
+Patient04,RTPD1,R,P3 | APC-like residual,0,0,5,42
+Patient04,RTPD1,R,P4 | Ambiguous residual,0,0,37,273
+Patient04,RTPD1,R,P5 | Cytotoxic CD8 effector-like,0,0,447,3794
+Patient04,RTPD1,R,P6 | Activated helper/memory IEG-like,0,0,63,448
+Patient04,RTPD1,R,P7 | gdT/NK-like terminal cytotoxic,0,0,27,189
+Patient04,RTPD1,R,P8 | Helper/memory basal-like,0,0,616,4361
+Patient05,Base,R,P1 | IFN-high cytotoxic,0,0,24,371
+Patient05,Base,R,P2 | Activated CD4/Treg-like,0,0,345,3199
+Patient05,Base,R,P3 | APC-like residual,0,0,3,28
+Patient05,Base,R,P4 | Ambiguous residual,0,0,45,343
+Patient05,Base,R,P6 | Activated helper/memory IEG-like,0,0,31,238
+Patient05,Base,R,P7 | gdT/NK-like terminal cytotoxic,0,0,29,287
+Patient05,Base,R,P8 | Helper/memory basal-like,0,0,517,3787
+Patient05,PD1,R,P1 | IFN-high cytotoxic,0,0,29,294
+Patient05,PD1,R,P2 | Activated CD4/Treg-like,0,0,130,1015
+Patient05,PD1,R,P4 | Ambiguous residual,0,0,46,357
+Patient05,PD1,R,P5 | Cytotoxic CD8 effector-like,0,0,405,3339
+Patient05,PD1,R,P6 | Activated helper/memory IEG-like,0,0,18,126
+Patient05,PD1,R,P7 | gdT/NK-like terminal cytotoxic,0,0,33,301
+Patient05,PD1,R,P8 | Helper/memory basal-like,0,0,301,2163
+Patient05,RTPD1,R,P1 | IFN-high cytotoxic,0,0,12,91
+Patient05,RTPD1,R,P2 | Activated CD4/Treg-like,0,0,51,364
+Patient05,RTPD1,R,P3 | APC-like residual,0,0,1,7
+Patient05,RTPD1,R,P4 | Ambiguous residual,0,0,23,168
+Patient05,RTPD1,R,P5 | Cytotoxic CD8 effector-like,0,0,239,1785
+Patient05,RTPD1,R,P6 | Activated helper/memory IEG-like,0,0,10,70
+Patient05,RTPD1,R,P7 | gdT/NK-like terminal cytotoxic,0,0,12,105
+Patient05,RTPD1,R,P8 | Helper/memory basal-like,0,0,160,1141
+Patient06,Base,NR,P1 | IFN-high cytotoxic,0,0,1,7
+Patient06,Base,NR,P2 | Activated CD4/Treg-like,0,0,1,7
+Patient06,Base,NR,P3 | APC-like residual,0,0,2,14
+Patient06,Base,NR,P4 | Ambiguous residual,0,0,24,175
+Patient06,Base,NR,P5 | Cytotoxic CD8 effector-like,0,0,267,2401
+Patient06,Base,NR,P6 | Activated helper/memory IEG-like,0,0,1,7
+Patient06,Base,NR,P7 | gdT/NK-like terminal cytotoxic,0,0,35,602
+Patient06,Base,NR,P8 | Helper/memory basal-like,0,0,212,1526
+Patient06,PD1,NR,P1 | IFN-high cytotoxic,0,0,3,21
+Patient06,PD1,NR,P2 | Activated CD4/Treg-like,0,0,16,112
+Patient06,PD1,NR,P4 | Ambiguous residual,0,0,26,189
+Patient06,PD1,NR,P5 | Cytotoxic CD8 effector-like,0,0,265,2065
+Patient06,PD1,NR,P7 | gdT/NK-like terminal cytotoxic,0,0,30,525
+Patient06,PD1,NR,P8 | Helper/memory basal-like,0,0,61,434
+Patient06,RTPD1,NR,P1 | IFN-high cytotoxic,0,0,9,63
+Patient06,RTPD1,NR,P2 | Activated CD4/Treg-like,0,0,96,763
+Patient06,RTPD1,NR,P3 | APC-like residual,0,0,3,21
+Patient06,RTPD1,NR,P4 | Ambiguous residual,0,0,10,70
+Patient06,RTPD1,NR,P5 | Cytotoxic CD8 effector-like,0,0,248,2016
+Patient06,RTPD1,NR,P6 | Activated helper/memory IEG-like,0,0,2,14
+Patient06,RTPD1,NR,P7 | gdT/NK-like terminal cytotoxic,0,0,35,1120
+Patient06,RTPD1,NR,P8 | Helper/memory basal-like,0,0,140,987
+Patient07,Base,R,P1 | IFN-high cytotoxic,0,0,24,196
+Patient07,Base,R,P2 | Activated CD4/Treg-like,0,0,193,1897
+Patient07,Base,R,P4 | Ambiguous residual,0,0,34,259
+Patient07,Base,R,P6 | Activated helper/memory IEG-like,0,0,11,77
+Patient07,Base,R,P7 | gdT/NK-like terminal cytotoxic,0,0,9,63
+Patient07,Base,R,P8 | Helper/memory basal-like,0,0,541,3822
+Patient07,PD1,R,P2 | Activated CD4/Treg-like,0,0,7,49
+Patient07,PD1,R,P4 | Ambiguous residual,0,0,8,70
+Patient07,PD1,R,P5 | Cytotoxic CD8 effector-like,0,0,50,427
+Patient07,PD1,R,P6 | Activated helper/memory IEG-like,0,0,1,7
+Patient07,PD1,R,P7 | gdT/NK-like terminal cytotoxic,0,0,1,7
+Patient07,PD1,R,P8 | Helper/memory basal-like,0,0,63,490
+Patient07,RTPD1,R,P1 | IFN-high cytotoxic,0,0,4,35
+Patient07,RTPD1,R,P2 | Activated CD4/Treg-like,0,0,102,910
+Patient07,RTPD1,R,P3 | APC-like residual,0,0,5,35
+Patient07,RTPD1,R,P4 | Ambiguous residual,0,0,49,364
+Patient07,RTPD1,R,P5 | Cytotoxic CD8 effector-like,0,0,311,2667
+Patient07,RTPD1,R,P6 | Activated helper/memory IEG-like,0,0,5,35
+Patient07,RTPD1,R,P7 | gdT/NK-like terminal cytotoxic,0,0,12,84
+Patient07,RTPD1,R,P8 | Helper/memory basal-like,0,0,388,2793
+Patient09,Base,R,P1 | IFN-high cytotoxic,0,0,971,16268
+Patient09,Base,R,P2 | Activated CD4/Treg-like,0,0,360,3437
+Patient09,Base,R,P4 | Ambiguous residual,0,0,90,679
+Patient09,Base,R,P5 | Cytotoxic CD8 effector-like,0,0,67,490
+Patient09,Base,R,P6 | Activated helper/memory IEG-like,0,0,3,21
+Patient09,Base,R,P7 | gdT/NK-like terminal cytotoxic,0,0,3,21
+Patient09,Base,R,P8 | Helper/memory basal-like,0,0,88,623
+Patient09,PD1,R,P1 | IFN-high cytotoxic,0,0,1129,22925
+Patient09,PD1,R,P2 | Activated CD4/Treg-like,0,0,434,3885
+Patient09,PD1,R,P3 | APC-like residual,0,0,36,343
+Patient09,PD1,R,P4 | Ambiguous residual,0,0,90,700
+Patient09,PD1,R,P5 | Cytotoxic CD8 effector-like,0,0,137,1155
+Patient09,PD1,R,P6 | Activated helper/memory IEG-like,0,0,20,140
+Patient09,PD1,R,P7 | gdT/NK-like terminal cytotoxic,0,0,22,182
+Patient09,PD1,R,P8 | Helper/memory basal-like,0,0,76,546
+Patient09,RTPD1,R,P1 | IFN-high cytotoxic,0,0,563,5810
+Patient09,RTPD1,R,P2 | Activated CD4/Treg-like,0,0,817,6636
+Patient09,RTPD1,R,P3 | APC-like residual,0,0,2,14
+Patient09,RTPD1,R,P4 | Ambiguous residual,0,0,123,910
+Patient09,RTPD1,R,P5 | Cytotoxic CD8 effector-like,0,0,187,1449
+Patient09,RTPD1,R,P6 | Activated helper/memory IEG-like,0,0,2,14
+Patient09,RTPD1,R,P7 | gdT/NK-like terminal cytotoxic,0,0,17,119
+Patient09,RTPD1,R,P8 | Helper/memory basal-like,0,0,117,819
+Patient10,Base,NR,P1 | IFN-high cytotoxic,0,0,37,294
+Patient10,Base,NR,P2 | Activated CD4/Treg-like,0,0,70,588
+Patient10,Base,NR,P3 | APC-like residual,0,0,1,7
+Patient10,Base,NR,P4 | Ambiguous residual,0,0,59,462
+Patient10,Base,NR,P5 | Cytotoxic CD8 effector-like,0,0,113,896
+Patient10,Base,NR,P6 | Activated helper/memory IEG-like,0,0,9,63
+Patient10,Base,NR,P7 | gdT/NK-like terminal cytotoxic,0,0,2,14
+Patient10,Base,NR,P8 | Helper/memory basal-like,0,0,102,714
+Patient10,PD1,NR,P1 | IFN-high cytotoxic,0,0,4,28
+Patient10,PD1,NR,P2 | Activated CD4/Treg-like,0,0,105,805
+Patient10,PD1,NR,P4 | Ambiguous residual,0,0,50,357
+Patient10,PD1,NR,P5 | Cytotoxic CD8 effector-like,0,0,206,1708
+Patient10,PD1,NR,P6 | Activated helper/memory IEG-like,0,0,1,7
+Patient10,PD1,NR,P7 | gdT/NK-like terminal cytotoxic,0,0,11,77
+Patient10,PD1,NR,P8 | Helper/memory basal-like,0,0,226,1617
+Patient10,RTPD1,NR,P1 | IFN-high cytotoxic,0,0,34,273
+Patient10,RTPD1,NR,P2 | Activated CD4/Treg-like,0,0,36,294
+Patient10,RTPD1,NR,P3 | APC-like residual,0,0,7,49
+Patient10,RTPD1,NR,P4 | Ambiguous residual,0,0,94,707
+Patient10,RTPD1,NR,P5 | Cytotoxic CD8 effector-like,0,0,36,259
+Patient10,RTPD1,NR,P6 | Activated helper/memory IEG-like,0,0,2,14
+Patient10,RTPD1,NR,P8 | Helper/memory basal-like,0,0,19,133
+Patient11,Base,R,P2 | Activated CD4/Treg-like,0,0,109,840
+Patient11,Base,R,P3 | APC-like residual,0,0,11,91
+Patient11,Base,R,P4 | Ambiguous residual,0,0,41,294
+Patient11,Base,R,P5 | Cytotoxic CD8 effector-like,0,0,123,1043
+Patient11,Base,R,P6 | Activated helper/memory IEG-like,0,0,108,763
+Patient11,Base,R,P7 | gdT/NK-like terminal cytotoxic,0,0,18,126
+Patient11,Base,R,P8 | Helper/memory basal-like,0,0,390,2793
+Patient11,PD1,R,P1 | IFN-high cytotoxic,0,0,24,420
+Patient11,PD1,R,P2 | Activated CD4/Treg-like,0,0,280,2275
+Patient11,PD1,R,P3 | APC-like residual,0,0,2,14
+Patient11,PD1,R,P4 | Ambiguous residual,0,0,131,1001
+Patient11,PD1,R,P5 | Cytotoxic CD8 effector-like,0,0,392,3472
+Patient11,PD1,R,P6 | Activated helper/memory IEG-like,0,0,12,84
+Patient11,PD1,R,P7 | gdT/NK-like terminal cytotoxic,0,0,12,91
+Patient11,RTPD1,R,P1 | IFN-high cytotoxic,0,0,61,707
+Patient11,RTPD1,R,P2 | Activated CD4/Treg-like,0,0,359,3675
+Patient11,RTPD1,R,P3 | APC-like residual,0,0,5,35
+Patient11,RTPD1,R,P4 | Ambiguous residual,0,0,48,343
+Patient11,RTPD1,R,P5 | Cytotoxic CD8 effector-like,0,0,234,1988
+Patient11,RTPD1,R,P6 | Activated helper/memory IEG-like,0,0,35,252
+Patient11,RTPD1,R,P7 | gdT/NK-like terminal cytotoxic,0,0,8,56
+Patient11,RTPD1,R,P8 | Helper/memory basal-like,0,0,277,2009
+Patient12,Base,R,P1 | IFN-high cytotoxic,0,0,6,63
+Patient12,Base,R,P2 | Activated CD4/Treg-like,0,0,105,791
+Patient12,Base,R,P3 | APC-like residual,0,0,1,7
+Patient12,Base,R,P4 | Ambiguous residual,0,0,36,259
+Patient12,Base,R,P5 | Cytotoxic CD8 effector-like,0,0,54,378
+Patient12,Base,R,P6 | Activated helper/memory IEG-like,0,0,4,28
+Patient12,Base,R,P7 | gdT/NK-like terminal cytotoxic,0,0,6,42
+Patient12,Base,R,P8 | Helper/memory basal-like,0,0,243,1715
+Patient12,PD1,R,P1 | IFN-high cytotoxic,0,0,118,2072
+Patient12,PD1,R,P2 | Activated CD4/Treg-like,0,0,224,1792
+Patient12,PD1,R,P3 | APC-like residual,0,0,106,1778
+Patient12,PD1,R,P4 | Ambiguous residual,0,0,172,1337
+Patient12,PD1,R,P5 | Cytotoxic CD8 effector-like,0,0,184,1456
+Patient12,PD1,R,P6 | Activated helper/memory IEG-like,0,0,80,560
+Patient12,PD1,R,P7 | gdT/NK-like terminal cytotoxic,0,0,53,413
+Patient12,PD1,R,P8 | Helper/memory basal-like,0,0,134,945
+Patient12,RTPD1,R,P1 | IFN-high cytotoxic,0,0,154,1939
+Patient12,RTPD1,R,P2 | Activated CD4/Treg-like,0,0,612,6377
+Patient12,RTPD1,R,P3 | APC-like residual,0,0,5,35
+Patient12,RTPD1,R,P4 | Ambiguous residual,0,0,312,2506
+Patient12,RTPD1,R,P6 | Activated helper/memory IEG-like,0,0,34,238
+Patient12,RTPD1,R,P7 | gdT/NK-like terminal cytotoxic,0,0,43,329
+Patient12,RTPD1,R,P8 | Helper/memory basal-like,0,0,748,5306
+Patient15,PD1,NR,P1 | IFN-high cytotoxic,0,0,32,252
+Patient15,PD1,NR,P2 | Activated CD4/Treg-like,0,0,85,644
+Patient15,PD1,NR,P3 | APC-like residual,0,0,4,28
+Patient15,PD1,NR,P4 | Ambiguous residual,0,0,68,490
+Patient15,PD1,NR,P5 | Cytotoxic CD8 effector-like,0,0,313,2842
+Patient15,PD1,NR,P6 | Activated helper/memory IEG-like,0,0,39,280
+Patient15,PD1,NR,P7 | gdT/NK-like terminal cytotoxic,0,0,21,161
+Patient15,PD1,NR,P8 | Helper/memory basal-like,0,0,276,1974
+Patient15,RTPD1,NR,P1 | IFN-high cytotoxic,0,0,3,21
+Patient15,RTPD1,NR,P2 | Activated CD4/Treg-like,0,0,3,21
+Patient15,RTPD1,NR,P3 | APC-like residual,0,0,1,7
+Patient15,RTPD1,NR,P4 | Ambiguous residual,0,0,31,231
+Patient15,RTPD1,NR,P5 | Cytotoxic CD8 effector-like,0,0,64,476
+Patient15,RTPD1,NR,P6 | Activated helper/memory IEG-like,0,0,3,21
+Patient15,RTPD1,NR,P7 | gdT/NK-like terminal cytotoxic,0,0,7,49
+Patient15,RTPD1,NR,P8 | Helper/memory basal-like,0,0,24,168
+Patient16,Base,R,P1 | IFN-high cytotoxic,0,0,176,1981
+Patient16,Base,R,P2 | Activated CD4/Treg-like,0,0,183,1372
+Patient16,Base,R,P3 | APC-like residual,0,0,5,35
+Patient16,Base,R,P4 | Ambiguous residual,0,0,193,1386
+Patient16,Base,R,P5 | Cytotoxic CD8 effector-like,0,0,73,679
+Patient16,Base,R,P6 | Activated helper/memory IEG-like,0,0,21,161
+Patient16,Base,R,P7 | gdT/NK-like terminal cytotoxic,0,0,19,133
+Patient16,Base,R,P8 | Helper/memory basal-like,0,0,91,651
+Patient16,PD1,R,P1 | IFN-high cytotoxic,0,0,269,3409
+Patient16,PD1,R,P2 | Activated CD4/Treg-like,0,0,543,4333
+Patient16,PD1,R,P3 | APC-like residual,0,0,60,567
+Patient16,PD1,R,P4 | Ambiguous residual,0,0,260,1960
+Patient16,PD1,R,P5 | Cytotoxic CD8 effector-like,0,0,317,2597
+Patient16,PD1,R,P6 | Activated helper/memory IEG-like,0,0,30,210
+Patient16,PD1,R,P7 | gdT/NK-like terminal cytotoxic,0,0,87,616
+Patient16,PD1,R,P8 | Helper/memory basal-like,0,0,192,1358
+Patient16,RTPD1,R,P1 | IFN-high cytotoxic,0,0,65,784
+Patient16,RTPD1,R,P2 | Activated CD4/Treg-like,0,0,508,4256
+Patient16,RTPD1,R,P3 | APC-like residual,0,0,14,112
+Patient16,RTPD1,R,P4 | Ambiguous residual,0,0,602,4830
+Patient16,RTPD1,R,P6 | Activated helper/memory IEG-like,0,0,30,217
+Patient16,RTPD1,R,P7 | gdT/NK-like terminal cytotoxic,0,0,64,448
+Patient16,RTPD1,R,P8 | Helper/memory basal-like,0,0,569,4018
+Patient17,Base,NR,P2 | Activated CD4/Treg-like,0,0,122,1197
+Patient17,Base,NR,P3 | APC-like residual,0,0,20,245
+Patient17,Base,NR,P4 | Ambiguous residual,0,0,159,1379
+Patient17,Base,NR,P5 | Cytotoxic CD8 effector-like,0,0,292,2709
+Patient17,Base,NR,P7 | gdT/NK-like terminal cytotoxic,0,0,14,119
+Patient17,Base,NR,P8 | Helper/memory basal-like,0,0,554,4109
+Patient17,PD1,NR,P1 | IFN-high cytotoxic,0,0,15,133
+Patient17,PD1,NR,P2 | Activated CD4/Treg-like,0,0,77,749
+Patient17,PD1,NR,P3 | APC-like residual,0,0,44,413
+Patient17,PD1,NR,P4 | Ambiguous residual,0,0,141,1512
+Patient17,PD1,NR,P5 | Cytotoxic CD8 effector-like,0,0,231,2653
+Patient17,PD1,NR,P6 | Activated helper/memory IEG-like,0,0,62,532
+Patient17,PD1,NR,P7 | gdT/NK-like terminal cytotoxic,0,0,12,112
+Patient17,PD1,NR,P8 | Helper/memory basal-like,0,0,52,371
+Patient17,RTPD1,NR,P1 | IFN-high cytotoxic,0,0,1,7
+Patient17,RTPD1,NR,P2 | Activated CD4/Treg-like,0,0,8,77
+Patient17,RTPD1,NR,P3 | APC-like residual,0,0,11,77
+Patient17,RTPD1,NR,P4 | Ambiguous residual,0,0,55,441
+Patient17,RTPD1,NR,P5 | Cytotoxic CD8 effector-like,0,0,3,21
+Patient17,RTPD1,NR,P6 | Activated helper/memory IEG-like,0,0,1,7
+Patient17,RTPD1,NR,P7 | gdT/NK-like terminal cytotoxic,0,0,4,28
+Patient18,Base,R,P1 | IFN-high cytotoxic,0,0,30,301
+Patient18,Base,R,P2 | Activated CD4/Treg-like,0,0,161,1456
+Patient18,Base,R,P3 | APC-like residual,0,0,10,77
+Patient18,Base,R,P6 | Activated helper/memory IEG-like,0,0,9,63
+Patient18,Base,R,P8 | Helper/memory basal-like,0,0,67,476
+Patient18,PD1,R,P1 | IFN-high cytotoxic,0,0,79,1043
+Patient18,PD1,R,P2 | Activated CD4/Treg-like,0,0,205,2170
+Patient18,PD1,R,P3 | APC-like residual,0,0,9,77
+Patient18,PD1,R,P4 | Ambiguous residual,0,0,186,1519
+Patient18,PD1,R,P5 | Cytotoxic CD8 effector-like,0,0,468,4368
+Patient18,PD1,R,P6 | Activated helper/memory IEG-like,0,0,68,490
+Patient18,PD1,R,P8 | Helper/memory basal-like,0,0,287,2030
+Patient18,RTPD1,R,P1 | IFN-high cytotoxic,0,0,113,2765
+Patient18,RTPD1,R,P2 | Activated CD4/Treg-like,0,0,389,3843
+Patient18,RTPD1,R,P3 | APC-like residual,0,0,20,168
+Patient18,RTPD1,R,P4 | Ambiguous residual,0,0,371,3423
+Patient18,RTPD1,R,P8 | Helper/memory basal-like,0,0,617,4459
+Patient19,Base,R,P2 | Activated CD4/Treg-like,0,0,133,1267
+Patient19,Base,R,P4 | Ambiguous residual,0,0,57,406
+Patient19,Base,R,P5 | Cytotoxic CD8 effector-like,0,0,86,602
+Patient19,Base,R,P6 | Activated helper/memory IEG-like,0,0,1,7
+Patient19,Base,R,P7 | gdT/NK-like terminal cytotoxic,0,0,4,28
+Patient19,Base,R,P8 | Helper/memory basal-like,0,0,195,1372
+Patient19,PD1,R,P1 | IFN-high cytotoxic,0,0,12,84
+Patient19,PD1,R,P2 | Activated CD4/Treg-like,0,0,197,1645
+Patient19,PD1,R,P3 | APC-like residual,0,0,2,14
+Patient19,PD1,R,P4 | Ambiguous residual,0,0,145,1029
+Patient19,PD1,R,P6 | Activated helper/memory IEG-like,0,0,10,70
+Patient19,PD1,R,P8 | Helper/memory basal-like,0,0,264,1862
+Patient19,RTPD1,R,P2 | Activated CD4/Treg-like,0,0,780,7938
+Patient19,RTPD1,R,P3 | APC-like residual,0,0,10,70
+Patient19,RTPD1,R,P6 | Activated helper/memory IEG-like,0,0,12,84
+Patient19,RTPD1,R,P8 | Helper/memory basal-like,0,0,180,1260
+Patient20,Base,R,P1 | IFN-high cytotoxic,0,0,43,483
+Patient20,Base,R,P2 | Activated CD4/Treg-like,0,0,70,637
+Patient20,Base,R,P3 | APC-like residual,0,0,2,14
+Patient20,Base,R,P4 | Ambiguous residual,0,0,30,224
+Patient20,Base,R,P5 | Cytotoxic CD8 effector-like,0,0,14,98
+Patient20,Base,R,P7 | gdT/NK-like terminal cytotoxic,0,0,5,35
+Patient20,Base,R,P8 | Helper/memory basal-like,0,0,12,84
+Patient20,PD1,R,P1 | IFN-high cytotoxic,0,0,315,4802
+Patient20,PD1,R,P2 | Activated CD4/Treg-like,0,0,353,3906
+Patient20,PD1,R,P3 | APC-like residual,0,0,68,651
+Patient20,PD1,R,P4 | Ambiguous residual,0,0,57,455
+Patient20,PD1,R,P5 | Cytotoxic CD8 effector-like,0,0,121,1036
+Patient20,PD1,R,P6 | Activated helper/memory IEG-like,0,0,5,49
+Patient20,PD1,R,P7 | gdT/NK-like terminal cytotoxic,0,0,20,224
+Patient20,PD1,R,P8 | Helper/memory basal-like,0,0,26,224
+Patient20,RTPD1,R,P1 | IFN-high cytotoxic,0,0,335,7259
+Patient20,RTPD1,R,P3 | APC-like residual,0,0,24,273
+Patient20,RTPD1,R,P4 | Ambiguous residual,0,0,87,679
+Patient20,RTPD1,R,P5 | Cytotoxic CD8 effector-like,0,0,78,826
+Patient20,RTPD1,R,P6 | Activated helper/memory IEG-like,0,0,8,56
+Patient20,RTPD1,R,P7 | gdT/NK-like terminal cytotoxic,0,0,21,252
+Patient23,Base,R,P1 | IFN-high cytotoxic,0,0,19,203
+Patient23,Base,R,P2 | Activated CD4/Treg-like,0,0,116,854
+Patient23,Base,R,P3 | APC-like residual,0,0,21,217
+Patient23,Base,R,P5 | Cytotoxic CD8 effector-like,0,0,219,1876
+Patient23,Base,R,P6 | Activated helper/memory IEG-like,0,0,27,196
+Patient23,Base,R,P7 | gdT/NK-like terminal cytotoxic,0,0,26,182
+Patient23,PD1,R,P2 | Activated CD4/Treg-like,0,0,2,14
+Patient23,PD1,R,P3 | APC-like residual,0,0,1,7
+Patient23,PD1,R,P4 | Ambiguous residual,0,0,44,357
+Patient23,PD1,R,P5 | Cytotoxic CD8 effector-like,0,0,23,217
+Patient23,PD1,R,P6 | Activated helper/memory IEG-like,0,0,11,98
+Patient23,PD1,R,P7 | gdT/NK-like terminal cytotoxic,0,0,12,98
+Patient23,PD1,R,P8 | Helper/memory basal-like,0,0,40,280
+Patient23,RTPD1,R,P1 | IFN-high cytotoxic,0,0,1,7
+Patient23,RTPD1,R,P2 | Activated CD4/Treg-like,0,0,6,42
+Patient23,RTPD1,R,P3 | APC-like residual,0,0,3,21
+Patient23,RTPD1,R,P4 | Ambiguous residual,0,0,7,49
+Patient23,RTPD1,R,P5 | Cytotoxic CD8 effector-like,0,0,17,154
+Patient23,RTPD1,R,P6 | Activated helper/memory IEG-like,0,0,4,28
+Patient23,RTPD1,R,P7 | gdT/NK-like terminal cytotoxic,0,0,2,14
+Patient23,RTPD1,R,P8 | Helper/memory basal-like,0,0,14,98
+Patient26,Base,NR,P1 | IFN-high cytotoxic,0,0,3,21
+Patient26,Base,NR,P2 | Activated CD4/Treg-like,0,0,19,161
+Patient26,Base,NR,P3 | APC-like residual,0,0,5,35
+Patient26,Base,NR,P4 | Ambiguous residual,0,0,150,1155
+Patient26,Base,NR,P5 | Cytotoxic CD8 effector-like,0,0,46,364
+Patient26,Base,NR,P6 | Activated helper/memory IEG-like,0,0,11,77
+Patient26,Base,NR,P7 | gdT/NK-like terminal cytotoxic,0,0,13,91
+Patient26,Base,NR,P8 | Helper/memory basal-like,0,0,67,469
+Patient26,PD1,NR,P2 | Activated CD4/Treg-like,0,0,1,7
+Patient26,PD1,NR,P4 | Ambiguous residual,0,0,5,35
+Patient26,PD1,NR,P6 | Activated helper/memory IEG-like,0,0,3,21
+Patient26,PD1,NR,P7 | gdT/NK-like terminal cytotoxic,0,0,1,7
+Patient26,PD1,NR,P8 | Helper/memory basal-like,0,0,6,42
+Patient26,RTPD1,NR,P1 | IFN-high cytotoxic,0,0,34,252
+Patient26,RTPD1,NR,P2 | Activated CD4/Treg-like,0,0,220,2478
+Patient26,RTPD1,NR,P3 | APC-like residual,0,0,52,399
+Patient26,RTPD1,NR,P4 | Ambiguous residual,0,0,278,2023
+Patient26,RTPD1,NR,P5 | Cytotoxic CD8 effector-like,0,0,189,1400
+Patient26,RTPD1,NR,P6 | Activated helper/memory IEG-like,0,0,109,784
+Patient26,RTPD1,NR,P7 | gdT/NK-like terminal cytotoxic,0,0,16,119
+Patient26,RTPD1,NR,P8 | Helper/memory basal-like,0,0,294,2086
+Patient30,Base,R,P2 | Activated CD4/Treg-like,0,0,4,28
+Patient30,Base,R,P3 | APC-like residual,0,0,2,14
+Patient30,Base,R,P4 | Ambiguous residual,0,0,4,28
+Patient30,Base,R,P5 | Cytotoxic CD8 effector-like,0,0,3,21
+Patient30,Base,R,P8 | Helper/memory basal-like,0,0,6,42
+Patient30,PD1,R,P1 | IFN-high cytotoxic,0,0,273,5187
+Patient30,PD1,R,P2 | Activated CD4/Treg-like,0,0,501,5460
+Patient30,PD1,R,P3 | APC-like residual,0,0,89,1085
+Patient30,PD1,R,P4 | Ambiguous residual,0,0,346,3311
+Patient30,PD1,R,P5 | Cytotoxic CD8 effector-like,0,0,214,1876
+Patient30,PD1,R,P6 | Activated helper/memory IEG-like,0,0,22,154
+Patient30,PD1,R,P7 | gdT/NK-like terminal cytotoxic,0,0,31,224
+Patient30,PD1,R,P8 | Helper/memory basal-like,0,0,85,602
+Patient30,RTPD1,R,P1 | IFN-high cytotoxic,0,0,53,798
+Patient30,RTPD1,R,P2 | Activated CD4/Treg-like,0,0,168,1295
+Patient30,RTPD1,R,P3 | APC-like residual,0,0,11,98
+Patient30,RTPD1,R,P4 | Ambiguous residual,0,0,419,4137
+Patient30,RTPD1,R,P5 | Cytotoxic CD8 effector-like,0,0,867,11571
+Patient30,RTPD1,R,P6 | Activated helper/memory IEG-like,0,0,1,7
+Patient30,RTPD1,R,P7 | gdT/NK-like terminal cytotoxic,0,0,19,343
+Patient30,RTPD1,R,P8 | Helper/memory basal-like,0,0,304,2205

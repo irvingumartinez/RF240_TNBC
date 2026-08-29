@@ -1,0 +1,13 @@
+projected_cluster,projected_cluster_label,cluster_identity,state_label,state_label_wrapped,mapping_status
+1,Projected 1,IFN-high cytotoxic,P1 | IFN-high cytotoxic,P1 | IFN-high cytotoxic,loaded_from_cluster_identity_map.csv
+2,Projected 2,Activated CD4/Treg-like,P2 | Activated CD4/Treg-like,P2 | Activated CD4/Treg-like,loaded_from_cluster_identity_map.csv
+3,Projected 3,APC-like residual,P3 | APC-like residual,P3 | APC-like residual,loaded_from_cluster_identity_map.csv
+4,Projected 4,Ambiguous residual,P4 | Ambiguous residual,P4 | Ambiguous residual,loaded_from_cluster_identity_map.csv
+5,Projected 5,Cytotoxic CD8 effector-like,P5 | Cytotoxic CD8 effector-like,"P5 | Cytotoxic CD8
+effector-like",loaded_from_cluster_identity_map.csv
+6,Projected 6,Activated helper/memory IEG-like,P6 | Activated helper/memory IEG-like,"P6 | Activated helper/memory
+IEG-like",loaded_from_cluster_identity_map.csv
+7,Projected 7,gdT/NK-like terminal cytotoxic,P7 | gdT/NK-like terminal cytotoxic,"P7 | gdT/NK-like terminal
+cytotoxic",loaded_from_cluster_identity_map.csv
+8,Projected 8,Helper/memory basal-like,P8 | Helper/memory basal-like,"P8 | Helper/memory
+basal-like",loaded_from_cluster_identity_map.csv

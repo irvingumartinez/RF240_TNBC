@@ -1,0 +1,3 @@
+response_group,n_patients,median_patient_delta_RF240,mean_patient_delta_RF240,min_patient_delta_RF240,max_patient_delta_RF240,prop_positive,prop_negative,prop_zero
+E,11,0.026300997,0.028995430600909092,-0.07184824,0.15664029,0.6363636363636364,0.36363636363636365,0
+NE,10,-0.0187322495,-0.015466274639999998,-0.0658555,0.058953755,0.3,0.7,0

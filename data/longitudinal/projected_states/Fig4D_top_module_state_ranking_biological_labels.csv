@@ -1,0 +1,21 @@
+module_state,module,projected_cluster_label,max_abs_median_enrichment,dynamic_range,mean_abs_median_enrichment,state_label,module_state_bio
+Innate-like | Projected 7,Innate-like,Projected 7,3.2062337506416414,1.1362149299227855,2.593904287658894,P7 | gdT/NK-like terminal cytotoxic,Innate-like | P7 | gdT/NK-like terminal cytotoxic
+Innate-like | Projected 2,Innate-like,Projected 2,0.8670794592842775,0.22858296006163625,0.7309949392801613,P2 | Activated CD4/Treg-like,Innate-like | P2 | Activated CD4/Treg-like
+Innate-like | Projected 8,Innate-like,Projected 8,0.7834161793700551,0.19544297444273995,0.6727315955051052,P8 | Helper/memory basal-like,Innate-like | P8 | Helper/memory basal-like
+Innate-like | Projected 6,Innate-like,Projected 6,0.7376248246692537,0.19126128397526865,0.6401160829454591,P6 | Activated helper/memory IEG-like,Innate-like | P6 | Activated helper/memory IEG-like
+Innate-like | Projected 1,Innate-like,Projected 1,0.732613641173271,0.687474700130318,0.43728208895453113,P1 | IFN-high cytotoxic,Innate-like | P1 | IFN-high cytotoxic
+Innate-like | Projected 4,Innate-like,Projected 4,0.6393342842959395,0.2772152600888586,0.5391363049171264,P4 | Ambiguous residual,Innate-like | P4 | Ambiguous residual
+IFN/cytotoxic | Projected 2,IFN/cytotoxic,Projected 2,0.4181033663318304,0.2801347161564311,0.2365315238996249,P2 | Activated CD4/Treg-like,IFN/cytotoxic | P2 | Activated CD4/Treg-like
+IFN/cytotoxic | Projected 6,IFN/cytotoxic,Projected 6,0.3534436913872578,0.16835522661139388,0.2799820769192802,P6 | Activated helper/memory IEG-like,IFN/cytotoxic | P6 | Activated helper/memory IEG-like
+IFN/cytotoxic | Projected 1,IFN/cytotoxic,Projected 1,0.34836764951721266,0.05119351233048053,0.32128357783904266,P1 | IFN-high cytotoxic,IFN/cytotoxic | P1 | IFN-high cytotoxic
+Non-responder-connected hubs | Projected 5,Non-responder-connected hubs,Projected 5,0.2711966724641899,0.11909534101879092,0.195801286293968,P5 | Cytotoxic CD8 effector-like,Non-responder-connected hubs | P5 | Cytotoxic CD8 effector-like
+Innate-like | Projected 3,Innate-like,Projected 3,0.2460843274179083,0.15784788355709156,0.16716038563936253,P3 | APC-like residual,Innate-like | P3 | APC-like residual
+IFN/cytotoxic | Projected 4,IFN/cytotoxic,Projected 4,0.20685386651195925,0.09658623302742356,0.13733419334464686,P4 | Ambiguous residual,IFN/cytotoxic | P4 | Ambiguous residual
+IFN/cytotoxic | Projected 8,IFN/cytotoxic,Projected 8,0.20323429421458972,0.18838376831573572,0.12944382923531653,P8 | Helper/memory basal-like,IFN/cytotoxic | P8 | Helper/memory basal-like
+IFN/cytotoxic | Projected 5,IFN/cytotoxic,Projected 5,0.19864947033949232,0.08673140883897068,0.15119214461344896,P5 | Cytotoxic CD8 effector-like,IFN/cytotoxic | P5 | Cytotoxic CD8 effector-like
+Non-responder-connected hubs | Projected 6,Non-responder-connected hubs,Projected 6,0.19566376961277665,0.1077849728233954,0.13505840802719915,P6 | Activated helper/memory IEG-like,Non-responder-connected hubs | P6 | Activated helper/memory IEG-like
+Non-responder-connected hubs | Projected 2,Non-responder-connected hubs,Projected 2,0.1946732002119258,0.13391929477797637,0.11893102671881998,P2 | Activated CD4/Treg-like,Non-responder-connected hubs | P2 | Activated CD4/Treg-like
+Non-responder-connected hubs | Projected 7,Non-responder-connected hubs,Projected 7,0.1816703442150984,0.05505378171217434,0.1616218492130672,P7 | gdT/NK-like terminal cytotoxic,Non-responder-connected hubs | P7 | gdT/NK-like terminal cytotoxic
+Non-responder-connected hubs | Projected 4,Non-responder-connected hubs,Projected 4,0.17877234726148272,0.05321023116050127,0.1522939870461657,P4 | Ambiguous residual,Non-responder-connected hubs | P4 | Ambiguous residual
+IFN/cytotoxic | Projected 7,IFN/cytotoxic,Projected 7,0.17735848265623894,0.11171625484004176,0.12177203194376485,P7 | gdT/NK-like terminal cytotoxic,IFN/cytotoxic | P7 | gdT/NK-like terminal cytotoxic
+Non-responder-connected hubs | Projected 1,Non-responder-connected hubs,Projected 1,0.13603297575568474,0.06044171535862427,0.10101926202733492,P1 | IFN-high cytotoxic,Non-responder-connected hubs | P1 | IFN-high cytotoxic

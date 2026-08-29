@@ -1,0 +1,19 @@
+.DS_Store
+.Rhistory
+.RData
+.Ruserdata
+
+# Temporary/editor files
+*~
+*.tmp
+
+# Large raw data formats
+*.h5ad
+*.h5
+*.loom
+
+# Local logs
+*.log
+data/baseline/sce_tbase_curated_reanalysis.rds
+data/baseline/meta_reanalysis_baseline_Tcells.csv
+data/baseline/metadata_Tcells_Base_RF240.csv

@@ -1,0 +1,2 @@
+comparison,n_NE,n_E,median_NE,median_E,delta_E_minus_NE,wilcox_W,p_value
+E vs NE,10,11,-0.0187322495,0.026300997,0.0450332465,86,0.031733993756896575

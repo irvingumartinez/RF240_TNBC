@@ -1,0 +1,121 @@
+projected_cluster_label,timepoint,response,median_global_enrichment,mean_global_enrichment,median_n_cells_cluster,support_flag,x_label,state_label_wrapped
+Projected 1,Base,NR,-0.02106832306871956,0.01335450522532548,7,low cell support,"Base
+NR",P1 | IFN-high cytotoxic
+Projected 1,Base,R,0.01612222119222711,-0.01365130905554272,61,acceptable,"Base
+R",P1 | IFN-high cytotoxic
+Projected 1,PD1,NR,-0.03602604797617273,0.00694886767716227,19,low cell support,"PD1
+NR",P1 | IFN-high cytotoxic
+Projected 1,PD1,R,0.01752407376590558,0.01830095318993109,115,acceptable,"PD1
+R",P1 | IFN-high cytotoxic
+Projected 1,RTPD1,NR,-0.00380138367564068,0.03030834791887825,9,low cell support,"RTPD1
+NR",P1 | IFN-high cytotoxic
+Projected 1,RTPD1,R,-0.00864289867649892,-0.02745349146962531,46,acceptable,"RTPD1
+R",P1 | IFN-high cytotoxic
+Projected 2,Base,NR,0.12840495149215606,0.16194880554752422,45.5,acceptable,"Base
+NR",P2 | Activated CD4/Treg-like
+Projected 2,Base,R,0.05252275902974995,0.05732343768779419,145.5,acceptable,"Base
+R",P2 | Activated CD4/Treg-like
+Projected 2,PD1,NR,0.07108926430876278,0.088768933103665,81,acceptable,"PD1
+NR",P2 | Activated CD4/Treg-like
+Projected 2,PD1,R,0.04146272158217762,0.06490646163451219,302,acceptable,"PD1
+R",P2 | Activated CD4/Treg-like
+Projected 2,RTPD1,NR,0.07758766381091592,0.08525369611528141,12,low cell support,"RTPD1
+NR",P2 | Activated CD4/Treg-like
+Projected 2,RTPD1,R,0.04250676481704402,0.05449939785879225,254,acceptable,"RTPD1
+R",P2 | Activated CD4/Treg-like
+Projected 3,Base,NR,-0.00783626617746036,-0.02989245660515124,13.5,low cell support,"Base
+NR",P3 | APC-like residual
+Projected 3,Base,R,-0.03608430765342305,-0.0601054127326698,9,low cell support,"Base
+R",P3 | APC-like residual
+Projected 3,PD1,NR,-0.02543024664630694,-0.031495623816521,27,acceptable,"PD1
+NR",P3 | APC-like residual
+Projected 3,PD1,R,-0.01886130672951425,-0.04991693052939038,33,acceptable,"PD1
+R",P3 | APC-like residual
+Projected 3,RTPD1,NR,0.10049270118611892,0.1049827815713014,4,low cell support,"RTPD1
+NR",P3 | APC-like residual
+Projected 3,RTPD1,R,-0.061074336730704,-0.04340263845368937,9,low cell support,"RTPD1
+R",P3 | APC-like residual
+Projected 4,Base,NR,-0.05053086392240537,-0.06448558398448787,133,acceptable,"Base
+NR",P4 | Ambiguous residual
+Projected 4,Base,R,-0.09635947800051038,-0.11389499045209107,118.5,acceptable,"Base
+R",P4 | Ambiguous residual
+Projected 4,PD1,NR,-0.0423138285230617,-0.05258802954464002,99,acceptable,"PD1
+NR",P4 | Ambiguous residual
+Projected 4,PD1,R,-0.06920255331579961,-0.097266222244573,195,acceptable,"PD1
+R",P4 | Ambiguous residual
+Projected 4,RTPD1,NR,-0.04206989651376552,-0.06122064430730556,86,acceptable,"RTPD1
+NR",P4 | Ambiguous residual
+Projected 4,RTPD1,R,-0.07284970666737631,-0.10053124830330762,142.5,acceptable,"RTPD1
+R",P4 | Ambiguous residual
+Projected 5,Base,NR,0.09833522402925284,0.10549725765662266,65,acceptable,"Base
+NR","P5 | Cytotoxic CD8
+effector-like"
+Projected 5,Base,R,0.06429990662915068,0.08442974234078311,180.5,acceptable,"Base
+R","P5 | Cytotoxic CD8
+effector-like"
+Projected 5,PD1,NR,0.11777191709823548,0.12008127632220857,305.5,acceptable,"PD1
+NR","P5 | Cytotoxic CD8
+effector-like"
+Projected 5,PD1,R,0.08593735759067966,0.08342245211464493,247,acceptable,"PD1
+R","P5 | Cytotoxic CD8
+effector-like"
+Projected 5,RTPD1,NR,0.09228445415847872,0.09376876012720198,59,acceptable,"RTPD1
+NR","P5 | Cytotoxic CD8
+effector-like"
+Projected 5,RTPD1,R,0.09830550316645176,0.08517609835753906,468,acceptable,"RTPD1
+R","P5 | Cytotoxic CD8
+effector-like"
+Projected 6,Base,NR,-0.13436798918026308,-0.11681050972008072,29.5,acceptable,"Base
+NR","P6 | Activated helper/memory
+IEG-like"
+Projected 6,Base,R,-0.17712214089495107,-0.1926251450794043,41.5,acceptable,"Base
+R","P6 | Activated helper/memory
+IEG-like"
+Projected 6,PD1,NR,-0.12887657914842876,-0.1323062379930934,109,acceptable,"PD1
+NR","P6 | Activated helper/memory
+IEG-like"
+Projected 6,PD1,R,-0.20332226972371625,-0.19213135388189745,57,acceptable,"PD1
+R","P6 | Activated helper/memory
+IEG-like"
+Projected 6,RTPD1,NR,-0.16390866549208968,-0.13446031273776302,8.5,low cell support,"RTPD1
+NR","P6 | Activated helper/memory
+IEG-like"
+Projected 6,RTPD1,R,-0.1943824506375653,-0.21532026152460837,86,acceptable,"RTPD1
+R","P6 | Activated helper/memory
+IEG-like"
+Projected 7,Base,NR,-0.0511431327355082,-0.05698437147700152,98,acceptable,"Base
+NR","P7 | gdT/NK-like terminal
+cytotoxic"
+Projected 7,Base,R,-0.09719950338280976,-0.11524907635446408,153,acceptable,"Base
+R","P7 | gdT/NK-like terminal
+cytotoxic"
+Projected 7,PD1,NR,-0.07238485337834216,-0.07642612084764178,176,acceptable,"PD1
+NR","P7 | gdT/NK-like terminal
+cytotoxic"
+Projected 7,PD1,R,-0.1120515568316105,-0.12281143966531688,172,acceptable,"PD1
+R","P7 | gdT/NK-like terminal
+cytotoxic"
+Projected 7,RTPD1,NR,-0.07171177380907666,-0.05764950127774487,60,acceptable,"RTPD1
+NR","P7 | gdT/NK-like terminal
+cytotoxic"
+Projected 7,RTPD1,R,-0.1097915870738525,-0.12549936731437344,186,acceptable,"RTPD1
+R","P7 | gdT/NK-like terminal
+cytotoxic"
+Projected 8,Base,NR,0.05205909170935641,0.07264988096940336,103,acceptable,"Base
+NR","P8 | Helper/memory
+basal-like"
+Projected 8,Base,R,0.01377730009611531,-0.00128273739711461,376,acceptable,"Base
+R","P8 | Helper/memory
+basal-like"
+Projected 8,PD1,NR,0.02218090177090148,0.01346371370265222,131,acceptable,"PD1
+NR","P8 | Helper/memory
+basal-like"
+Projected 8,PD1,R,-0.01906091056294218,-0.04108021515174467,188,acceptable,"PD1
+R","P8 | Helper/memory
+basal-like"
+Projected 8,RTPD1,NR,-0.00367138884871837,0.02782259838022323,35,acceptable,"RTPD1
+NR","P8 | Helper/memory
+basal-like"
+Projected 8,RTPD1,R,-0.00565647036601335,-0.02785254067913711,353,acceptable,"RTPD1
+R","P8 | Helper/memory
+basal-like"

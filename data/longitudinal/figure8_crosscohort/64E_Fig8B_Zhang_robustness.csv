@@ -1,0 +1,10 @@
+robustness_type,label,order,n_NR,n_R,delta_R_minus_NR,direction_positive
+Clone-support threshold,≥10 persistent clones,10,3,2,0.11182737843961146,TRUE
+Clone-support threshold,≥20 persistent clones,20,2,2,0.0905682163223654,TRUE
+Clone-support threshold,≥50 persistent clones,50,2,2,0.0905682163223654,TRUE
+Clone-support threshold,≥100 persistent clones,100,2,2,0.0905682163223654,TRUE
+Leave-one-patient-out,Remove P017,1,2,2,0.0905682163223654,TRUE
+Leave-one-patient-out,Remove P005,2,2,2,0.11423866156995272,TRUE
+Leave-one-patient-out,Remove P002,3,2,2,0.13549782368719876,TRUE
+Leave-one-patient-out,Remove P012,4,3,1,0.15034593350641962,TRUE
+Leave-one-patient-out,Remove P019,5,3,1,0.07330882337280331,TRUE

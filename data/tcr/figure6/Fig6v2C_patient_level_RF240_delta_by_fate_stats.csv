@@ -1,0 +1,7 @@
+comparison_label,fate_label,n_groups,group_1,group_2,n_group_1,n_group_2,median_group_1,median_group_2,delta_group_2_minus_group_1,p_value,q_value,stat_label,plot_label,q_class
+PD1 − Base,Same state,2,NR,R,3,14,-0.09583329,0.07187500250000001,0.16770829250000002,0.4128303323781435,0.825660664756287,NA,,ns
+PD1 − Base,State switch,2,NR,R,3,14,-0.03027778666666666,7.378545833333309e-4,0.03101564124999999,1,1,NA,,ns
+RTPD1 − Base,Same state,2,NR,R,3,14,-0.08151041999999997,0.0800346965,0.16154511649999995,0.08897301170181335,0.11529061707139364,NA,"trend
+q=0.115",trend_q_lt_0.15
+RTPD1 − Base,State switch,2,NR,R,3,14,-0.0688269,-0.00393517749999999,0.0648917225,0.11529061707139364,0.11529061707139364,NA,"trend
+q=0.115",trend_q_lt_0.15

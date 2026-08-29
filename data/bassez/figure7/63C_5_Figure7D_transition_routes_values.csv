@@ -1,0 +1,91 @@
+response_group,dominant_state_Pre,dominant_state_Post,n_clonotypes,n_patients,median_delta_RF240,median_phenotype_shift,cell_label
+NE,CXCL13_PDCD1_like,CXCL13_PDCD1_like,10,4,0.00104161,0.8215335692199682,"10
+(4 pt)"
+NE,Cytotoxic_like,Cytotoxic_like,111,10,-0.01253092699999997,0.7609834666295563,"111
+(10 pt)"
+NE,Cytotoxic_like,Helper_memory_like,13,5,0.00767770500000003,1.435224602003789,"13
+(5 pt)"
+NE,Cytotoxic_like,IFN_response_like,11,5,0.02649329,0.937353530358714,"11
+(5 pt)"
+NE,Cytotoxic_like,Low_signal_mixed,11,7,-0.00631125999999998,1.3197321866530625,"11
+(7 pt)"
+NE,Helper_memory_like,Cytotoxic_like,13,6,-0.02463902000000001,1.2770006635308493,"13
+(6 pt)"
+NE,Helper_memory_like,Helper_memory_like,38,7,-0.05180433999999999,0.7307441420152501,"38
+(7 pt)"
+NE,Helper_memory_like,Low_signal_mixed,21,7,-0.042209935,0.8641100375580916,"21
+(7 pt)"
+NE,IFN_response_like,Cytotoxic_like,13,3,-0.0466468333333333,1.0624546944083957,"13
+(3 pt)"
+NE,IFN_response_like,Helper_memory_like,5,3,0.02108034000000003,1.3327193343152262,"5
+(3 pt)"
+NE,IFN_response_like,IFN_response_like,9,2,-0.05119776999999992,0.7436817849311428,"9
+(2 pt)"
+NE,Low_signal_mixed,Cytotoxic_like,20,9,0.04800965363636364,1.1643444991784018,"20
+(9 pt)"
+NE,Low_signal_mixed,Helper_memory_like,9,4,-0.04704956500000001,0.9673111347578988,"9
+(4 pt)"
+NE,Low_signal_mixed,Low_signal_mixed,26,7,-0.02032203583333336,0.6821498322493915,"26
+(7 pt)"
+NE,Regulatory_checkpoint_like,Helper_memory_like,7,3,-0.02939954999999999,1.4348014390131862,"7
+(3 pt)"
+NE,Regulatory_checkpoint_like,Regulatory_checkpoint_like,22,7,0.0031263050000000254,0.9041658496214142,"22
+(7 pt)"
+E,CXCL13_PDCD1_like,CXCL13_PDCD1_like,203,11,0.02483367544444441,0.8910814959066116,"203
+(11 pt)"
+E,CXCL13_PDCD1_like,Cytotoxic_like,25,8,0.01715884000000001,0.9283540920264975,"25
+(8 pt)"
+E,CXCL13_PDCD1_like,Regulatory_checkpoint_like,11,7,0.02809429000000002,1.201376572121969,"11
+(7 pt)"
+E,Cytotoxic_like,CXCL13_PDCD1_like,36,8,0.031594681875,0.9314932224323429,"36
+(8 pt)"
+E,Cytotoxic_like,Cytotoxic_like,329,11,0.01289285400000001,0.8166916354812653,"329
+(11 pt)"
+E,Cytotoxic_like,Helper_memory_like,20,6,0.032022140000000004,1.2855222612340311,"20
+(6 pt)"
+E,Cytotoxic_like,IFN_response_like,31,8,0.05360079000000001,1.0972416201501605,"31
+(8 pt)"
+E,Cytotoxic_like,Low_signal_mixed,11,7,-0.01968970999999997,1.536652865507076,"11
+(7 pt)"
+E,Helper_memory_like,CXCL13_PDCD1_like,6,4,0.012954776250000022,1.5077143769464287,"6
+(4 pt)"
+E,Helper_memory_like,Cytotoxic_like,17,6,-0.02666608333333331,1.4230740291569204,"17
+(6 pt)"
+E,Helper_memory_like,Helper_memory_like,19,6,0.05657328,0.7201546532291916,"19
+(6 pt)"
+E,Helper_memory_like,IFN_response_like,16,7,0.017425615,0.9643646024724022,"16
+(7 pt)"
+E,Helper_memory_like,Low_signal_mixed,9,5,0.00774746999999997,1.0019267329159391,"9
+(5 pt)"
+E,Helper_memory_like,Regulatory_checkpoint_like,7,3,0.06150766499999999,1.372214953795712,"7
+(3 pt)"
+E,IFN_response_like,CXCL13_PDCD1_like,21,6,0.06463590833333338,1.3181943799735545,"21
+(6 pt)"
+E,IFN_response_like,Cytotoxic_like,56,10,0.024561265595238073,1.0501755061962328,"56
+(10 pt)"
+E,IFN_response_like,Helper_memory_like,15,8,0.00430763,1.0701004696626994,"15
+(8 pt)"
+E,IFN_response_like,IFN_response_like,23,6,0.00286797999999999,0.816851832212034,"23
+(6 pt)"
+E,IFN_response_like,Low_signal_mixed,6,5,0.03335338999999998,0.896290241746982,"6
+(5 pt)"
+E,IFN_response_like,Regulatory_checkpoint_like,22,5,0.01641029333333338,1.3226408254867534,"22
+(5 pt)"
+E,Low_signal_mixed,CXCL13_PDCD1_like,6,5,0.07595953499999994,1.9028540497109239,"6
+(5 pt)"
+E,Low_signal_mixed,Cytotoxic_like,29,6,0.09100028,1.3113192609713369,"29
+(6 pt)"
+E,Low_signal_mixed,Helper_memory_like,16,6,0.06526240249999998,1.1590352699373758,"16
+(6 pt)"
+E,Low_signal_mixed,IFN_response_like,8,5,0.07670614225,1.4177951636737167,"8
+(5 pt)"
+E,Low_signal_mixed,Low_signal_mixed,6,5,0.06817830733333333,0.7633748720792037,"6
+(5 pt)"
+E,Low_signal_mixed,Regulatory_checkpoint_like,5,5,0.08304906000000001,1.8220413275655312,"5
+(5 pt)"
+E,Regulatory_checkpoint_like,CXCL13_PDCD1_like,22,8,-0.028636217500000005,1.2422180080196434,"22
+(8 pt)"
+E,Regulatory_checkpoint_like,IFN_response_like,13,6,0.06583496999999999,1.4378797884307593,"13
+(6 pt)"
+E,Regulatory_checkpoint_like,Regulatory_checkpoint_like,133,9,0.04429388000000001,0.9603565764938632,"133
+(9 pt)"

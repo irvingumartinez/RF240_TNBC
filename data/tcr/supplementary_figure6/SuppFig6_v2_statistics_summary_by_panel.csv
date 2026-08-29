@@ -1,0 +1,10 @@
+panel,significance_class,n_tests
+A,ns,3
+B,ns,3
+C,ns,9
+E,not_testable,3
+E,ns,3
+F,not_testable,27
+F,ns,21
+G,not_testable,18
+G,ns,18

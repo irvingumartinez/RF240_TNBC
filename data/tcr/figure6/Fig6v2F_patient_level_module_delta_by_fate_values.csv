@@ -1,0 +1,49 @@
+module_label,comparison_label,response_pcr,fate_label,n_patient_fate_profiles,median_patient_delta,condition
+IFN/cytotoxic,PD1 − Base,NR,Same state,3,-0.12500004999999992,PD1 − Base | NR | Same state
+IFN/cytotoxic,PD1 − Base,NR,State switch,3,-0.26666666333333333,PD1 − Base | NR | State switch
+IFN/cytotoxic,PD1 − Base,R,Same state,14,0.01897059753571426,PD1 − Base | R | Same state
+IFN/cytotoxic,PD1 − Base,R,State switch,14,-0.10509257049999995,PD1 − Base | R | State switch
+IFN/cytotoxic,RTPD1 − Base,NR,Same state,3,-0.333333365,RTPD1 − Base | NR | Same state
+IFN/cytotoxic,RTPD1 − Base,NR,State switch,3,-0.32777778916666667,RTPD1 − Base | NR | State switch
+IFN/cytotoxic,RTPD1 − Base,R,Same state,14,-0.03472222291666666,RTPD1 − Base | R | Same state
+IFN/cytotoxic,RTPD1 − Base,R,State switch,14,-0.05913271624999999,RTPD1 − Base | R | State switch
+Innate-like,PD1 − Base,NR,Same state,3,0,PD1 − Base | NR | Same state
+Innate-like,PD1 − Base,NR,State switch,3,-0.02083333333333334,PD1 − Base | NR | State switch
+Innate-like,PD1 − Base,R,Same state,14,0.046875,PD1 − Base | R | Same state
+Innate-like,PD1 − Base,R,State switch,14,0,PD1 − Base | R | State switch
+Innate-like,RTPD1 − Base,NR,Same state,3,-0.05208333399999999,RTPD1 − Base | NR | Same state
+Innate-like,RTPD1 − Base,NR,State switch,3,0.0078125,RTPD1 − Base | NR | State switch
+Innate-like,RTPD1 − Base,R,Same state,14,0,RTPD1 − Base | R | Same state
+Innate-like,RTPD1 − Base,R,State switch,14,-0.05208332500000001,RTPD1 − Base | R | State switch
+NR hubs,PD1 − Base,NR,Same state,3,-0.13636360000000014,PD1 − Base | NR | Same state
+NR hubs,PD1 − Base,NR,State switch,3,-0.13939397000000003,PD1 − Base | NR | State switch
+NR hubs,PD1 − Base,R,Same state,14,0.03409091075000001,PD1 − Base | R | Same state
+NR hubs,PD1 − Base,R,State switch,14,-0.03661617249999999,PD1 − Base | R | State switch
+NR hubs,RTPD1 − Base,NR,Same state,3,-0.181818215,RTPD1 − Base | NR | Same state
+NR hubs,RTPD1 − Base,NR,State switch,3,-0.4296175950000001,RTPD1 − Base | NR | State switch
+NR hubs,RTPD1 − Base,R,Same state,14,0.10132572916666668,RTPD1 − Base | R | Same state
+NR hubs,RTPD1 − Base,R,State switch,14,0.02335859083333334,RTPD1 − Base | R | State switch
+R hubs,PD1 − Base,NR,Same state,3,-0.0418333325,PD1 − Base | NR | Same state
+R hubs,PD1 − Base,NR,State switch,3,-0.07222221333333334,PD1 − Base | NR | State switch
+R hubs,PD1 − Base,R,Same state,14,0.028333335,PD1 − Base | R | Same state
+R hubs,PD1 − Base,R,State switch,14,0,PD1 − Base | R | State switch
+R hubs,RTPD1 − Base,NR,Same state,3,-0.2,RTPD1 − Base | NR | Same state
+R hubs,RTPD1 − Base,NR,State switch,3,0.02916665874999999,RTPD1 − Base | NR | State switch
+R hubs,RTPD1 − Base,R,Same state,14,0,RTPD1 − Base | R | Same state
+R hubs,RTPD1 − Base,R,State switch,14,-0.03454861249999999,RTPD1 − Base | R | State switch
+Regulatory/adaptive,PD1 − Base,NR,Same state,3,-0.01031249999999997,PD1 − Base | NR | Same state
+Regulatory/adaptive,PD1 − Base,NR,State switch,3,-0.0625,PD1 − Base | NR | State switch
+Regulatory/adaptive,PD1 − Base,R,Same state,14,-0.00829673833333333,PD1 − Base | R | Same state
+Regulatory/adaptive,PD1 − Base,R,State switch,14,0.0165178572,PD1 − Base | R | State switch
+Regulatory/adaptive,RTPD1 − Base,NR,Same state,3,-0.0234375,RTPD1 − Base | NR | Same state
+Regulatory/adaptive,RTPD1 − Base,NR,State switch,3,-0.09375,RTPD1 − Base | NR | State switch
+Regulatory/adaptive,RTPD1 − Base,R,Same state,14,-0.00260416666666666,RTPD1 − Base | R | Same state
+Regulatory/adaptive,RTPD1 − Base,R,State switch,14,-0.01361111166666666,RTPD1 − Base | R | State switch
+NA,PD1 − Base,NR,Same state,3,-0.00476190666666667,PD1 − Base | NR | Same state
+NA,PD1 − Base,NR,State switch,3,-0.03749999999999998,PD1 − Base | NR | State switch
+NA,PD1 − Base,R,Same state,14,0.07916668333333335,PD1 − Base | R | Same state
+NA,PD1 − Base,R,State switch,14,0.002083325,PD1 − Base | R | State switch
+NA,RTPD1 − Base,NR,Same state,3,-0.1125,RTPD1 − Base | NR | Same state
+NA,RTPD1 − Base,NR,State switch,3,-0.11333333333333331,RTPD1 − Base | NR | State switch
+NA,RTPD1 − Base,R,Same state,14,0.00833333625,RTPD1 − Base | R | Same state
+NA,RTPD1 − Base,R,State switch,14,0.05,RTPD1 − Base | R | State switch
