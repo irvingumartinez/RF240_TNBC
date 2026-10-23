@@ -1,8 +1,8 @@
-# RF240 TNBC code compendium
+**# RF240 TNBC code compendium
 
 This repository contains the analysis code, metadata, and lightweight derived checkpoints supporting the manuscript:
 
-**Biological deconstruction of an RF-selected T-cell signature reveals state- and clonotype-dependent organization during immunotherapy in triple-negative breast cancer**
+**Biological deconstruction of an RF-selected T-cell signature reveals state- and clonotype-dependent organization during immunotherapy in triple-negative breast cancer****
 
 ## Scope
 
